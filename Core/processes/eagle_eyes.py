@@ -9,6 +9,6 @@ def worker():
     pass
 
 class EagleEyesSystem(BaseProcess):
-    def __init__(self, name: str, function: callable, args=None, kwargs=None):
-        super().__init__(name, function, args, kwargs)
+    def __init__(self, name: str):
+        super().__init__(name)
         # TODO implement this

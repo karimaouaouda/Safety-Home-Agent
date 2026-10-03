@@ -6,4 +6,3 @@
     <h3 style="margin: 0">Karim Aouaouda</h3>
     <h6 style="margin: 0">Bachelor's in Software Engineer & Master's in AI</h6>
 </a>
-
